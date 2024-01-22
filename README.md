@@ -1,16 +1,15 @@
-### Hello, I'm Genaro Cura.👋
+## Hola, Soy Genaro Cura.👋
 
-<!--
-**GenaroCura/GenaroCura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Acerca de mi:
+Soy Desarrollador Web Full Stack con formación en React.js, Redux, CSS, Sequelize, PostgresSQL, Node.js, Express, además de utilizar otras herramientas de desarrollo. Busco oportunidades para aplicar y ampliar mis habilidades.
 
-Here are some ideas to get you started:
+### Actualmente estoy aprendiendo:
+- Redux-Toolkit
+- Next.js
+- TypeScript
+- React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- Email: [genacura4@gmail.com](mailto:genacura4@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/genaro-cura-7275581ba/)
+
