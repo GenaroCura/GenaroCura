@@ -9,7 +9,7 @@ Soy Desarrollador Web Full Stack con formación en React.js, Redux, CSS, Sequeli
 - TypeScript
 - React Native
 
-## Contacto
+### Contacto
 - Email: [genacura4@gmail.com](mailto:genacura4@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/genaro-cura-7275581ba/)
 
