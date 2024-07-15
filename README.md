@@ -7,7 +7,7 @@ Soy Desarrollador Web Full Stack con formación en React.js, Redux, CSS, Sequeli
 - Redux-Toolkit
 - Next.js
 - TypeScript
-- MongoDb
+- MongoDB
 
 ### Contacto
 - Email: [genacura4@gmail.com](mailto:genacura4@gmail.com)
