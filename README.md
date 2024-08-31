@@ -4,7 +4,6 @@
 Soy Desarrollador Web Full Stack con formación en React.js, Redux, CSS, Sequelize, PostgresSQL, Node.js, Express, además de utilizar otras herramientas de desarrollo. Busco oportunidades para aplicar y ampliar mis habilidades.
 
 ### Actualmente estoy aprendiendo:
-- Redux-Toolkit
 - Next.js
 - TypeScript
 - MongoDB
