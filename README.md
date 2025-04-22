@@ -1,7 +1,9 @@
 ## Hola, Soy Genaro Cura.👋
 
 ### Acerca de mi:
-Soy Desarrollador Web Full Stack con formación en React.js, Redux, CSS, Sequelize, PostgresSQL, Node.js, Express, además de utilizar otras herramientas de desarrollo. Busco oportunidades para aplicar y ampliar mis habilidades.
+Desarrollador Back-end.
+
+
 
 ### Contacto
 - Email: [genacura4@gmail.com](mailto:genacura4@gmail.com)
