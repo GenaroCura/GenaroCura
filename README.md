@@ -1,12 +1,23 @@
-## Hola, Soy Genaro Cura.👋
+### Hola, soy Genaro Cura 👋
 
-### Acerca de mi:
-Desarrollador Back-end.
-Busco aportar en el desarrollo Back-end y arquitecturas de datos (SQL/NoSQL) para contribuir a la creación de aplicaciones de alto rendimiento.
+💻 Desarrollador de software enfocado en back-end
+📍 Córdoba, Argentina
 
+Me interesa construir aplicaciones escalables y bien estructuradas, con especial foco en APIs, arquitectura y manejo de datos.
 
+Trabajo principalmente con:
 
-### Contacto
-- Email: [genacura4@gmail.com](mailto:genacura4@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/genaro-cura-7275581ba/)
+TypeScript / Node.js
+NestJS
+Bases de datos NoSQL
+PostgreSQL
 
+Actualmente estoy cursando el 2º año de la Tecnicatura en Desarrollo de Software y continúo formándome de manera autodidacta.
+
+🚀 Me interesa seguir creciendo como desarrollador y participar en proyectos desafiantes.
+
+📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Genaro_Cura-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/genaro-cura/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-genaarocura@gmail.com-red?style=flat&logo=gmail)](mailto:genacura4@gmail.com)
